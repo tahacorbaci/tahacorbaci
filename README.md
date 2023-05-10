@@ -8,10 +8,8 @@
 
 
 ## 🌐 Socials:
+[![Github](https://img.shields.io/badge/-@Serenity%20Games-%23181717.svg?logo=Github)](https://github.com/tahacorbaci)
 [![LinkedIn](https://img.shields.io/badge/Taha%20Çorbacıoğlu-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmet-taha-çorbacıoğlu-65ab7b115)
----
-[![](https://visitcount.itsvg.in/api?id=tahacorbaci&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 ## 📊 Stats:
 ![github stats](https://github-readme-stats.vercel.app/api?username=tahacorbaci&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
@@ -36,3 +34,6 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) 
 ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white)
+
+---
+[![](https://visitcount.itsvg.in/api?id=tahacorbaci&icon=0&color=0)](https://visitcount.itsvg.in)
