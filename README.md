@@ -1,4 +1,4 @@
-<h1 align="center"> # Hey 👋, I'm Taha Çorbacıoğlu </h1>
+<h1 align="center"> Hey 👋, I'm Taha Çorbacıoğlu </h1>
 
 🔭 I’m currently working on a CRPG game based on 5E rules.
 
@@ -8,7 +8,7 @@
 
 
 ## 🌐 Socials:
-[![Github](https://img.shields.io/badge/-@Serenity%20Games-%23181717.svg?logo=Github)](https://github.com/tahacorbaci)
+[![Github](https://img.shields.io/badge/-@Serenity%20Studios-%23181717.svg?logo=Github)](https://github.com/serenitystudio)
 [![LinkedIn](https://img.shields.io/badge/Taha%20Çorbacıoğlu-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmet-taha-çorbacıoğlu-65ab7b115)
 
 ## 📊 Stats:
